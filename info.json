@@ -1,0 +1,11 @@
+{
+    "name": "FindMyCar",
+    "version": "0.1.0",
+    "title": "Find My Car",
+    "author": "aaaaaaaaaaaaaaaaaa8",
+    "contact": "calvinku96@gmail.com",
+    "homepage": "https://github.com/calvinku96/FindMyCar",
+    "factorio_version": "0.15",
+    "dependencies": ["base >= 0.15"],
+    "description": "Search car entities in the game."
+}
